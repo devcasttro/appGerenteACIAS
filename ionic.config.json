@@ -1,0 +1,7 @@
+{
+  "name": "gerenteACIAS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
